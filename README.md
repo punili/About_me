@@ -30,7 +30,11 @@
   > 將歷年計畫名稱拆解成詞組，使用 Javascript 設計計畫名稱重組器
     
   > 文學與資訊結合的應用作品
-    
+* 新竹市 free wifi 熱點快搜 (AJAX/JSON) - [連結](https://punili.github.io/iHsinChu_wifi/ "連結")
+
+  > 以AJAX抓取新竹市政府open data的 JSON API
+    
+  > 結合google map API 呈現 新竹市各區 iHsinChu 免費熱點    
 * 撲克T恤小舖(Jquery) - [連結](https://punili.github.io/T-shirt-shop/ "連結")
   > 應用Jquery語法，實作商品篩選功能
   
