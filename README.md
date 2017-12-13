@@ -32,7 +32,7 @@
   > 文學與資訊結合的應用作品
 * 新竹市 free wifi 熱點快搜 (AJAX/JSON) - [連結](https://punili.github.io/iHsinChu_wifi/ "連結")
 
-  > 以AJAX抓取新竹市政府open data的 JSON API
+  > 以AJAX抓取新竹市政府open data的 JSON API
     
   > 結合google map API 呈現 新竹市各區 iHsinChu 免費熱點    
 * 撲克T恤小舖(Jquery) - [連結](https://punili.github.io/T-shirt-shop/ "連結")
@@ -60,4 +60,5 @@
 ## Personality
 * 持續學習、熱心助人
 * 工作態度認真負責
+* 樂於嘗試新事物
 * 大學科系雖然讀的是文學，但從高中開始就有接觸html標記語言，大學曾幫資源教室及田徑活動建置網頁，在系學會也曾擔任資訊幹部。之前從事的行政工作中，也多次協助建置網頁，因對網頁設計有興趣，而找了codecademy線上課程及多項數位資源與書籍、從基礎CSS開始學起，並自主加強學習github等相關知識，提升自身能力，期許成為一名網頁前端工程師。
