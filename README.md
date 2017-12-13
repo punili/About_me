@@ -22,7 +22,7 @@
 * 計畫活動文案撰寫
 ---------------
 ## Works
-* 猜數字遊戲(Javascript) - [url](http://example.com/ "Title")
+* 猜數字遊戲(Javascript) - [連結](https://punili.github.io/guessNum/ "連結")
 
   > 使用 Javascript 設計簡易互動猜數字遊戲
 * 計畫名稱組合器(Javascript) - [連結](https://punili.github.io/projectNameRandom/ "連結")
