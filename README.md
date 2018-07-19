@@ -1,7 +1,7 @@
 #  李佳穎 (JiaYing Li)
 * English Name: Puni Li
 * Birthday： 1988/07
-* Education：國立成功大學台灣文學系
+* Education：國立成功大學
 * Location： 新竹市東區
 * E-Mail： <jiayinglipuni@gmail.com>
 * Personal Website： <https://punili.github.io/>
